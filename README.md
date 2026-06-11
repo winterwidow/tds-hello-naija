@@ -18,9 +18,7 @@ print(shout("TDS"))
 
 ## PYPI
 
-```
 [https://pypi.org/project/tds-hello-naija/](https://pypi.org/project/tds-hello-naija/)
-```
 
 ## License
 
