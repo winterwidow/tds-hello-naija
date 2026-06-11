@@ -52,7 +52,7 @@ jobs:
         uses: astral-sh/setup-uv@v7
 
       - name: Publish
-        run: uv publish --index testpypi dist/*
+        run: uv publish --publish-url https://test.pypi.org/legacy/ dist/*
 
   publish-pypi:
     name: Publish to PyPI
