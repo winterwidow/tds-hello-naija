@@ -11,8 +11,9 @@ pip install tds-hello-naija
 ## Usage
 
 ```
-from tds_hello_naija import greet
+from tds_hello_naija import greet, shout
 print(greet("TDS"))
+print(shout("TDS"))
 ```
 
 ## License
